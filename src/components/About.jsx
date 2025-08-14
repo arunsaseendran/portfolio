@@ -1,4 +1,5 @@
 import React from 'react';
+import aImage from '../assets/a.jpg';
 
 const About = () => {
   return (
@@ -8,7 +9,7 @@ const About = () => {
         <p className="text-gray-600">
           Hi! I'm a passionate web developer who loves building clean and responsive websites. With a focus on frontend technologies like React and Tailwind CSS, I aim to create engaging and accessible digital experiences.
         </p>
-        <img src="/a.jpg" alt="About" />
+        <img src={aImage} alt="About" />
 
       </div>
     </section>
