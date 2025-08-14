@@ -7,12 +7,12 @@ const Education = () => {
         <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">Education</h2>
         <ul className="space-y-4">
           <li className="bg-gray-50 p-4 rounded shadow">
-            <h3 className="text-xl font-semibold text-gray-700">BTech in Computer Science and engineering</h3>
-            <p className="text-gray-500">College of engineering vadakara | 2022 - 2025</p>
+            <h3 className="text-xl font-semibold text-gray-700">Msc Computer Science</h3>
+            <p className="text-gray-500">Calicut University Campus | 2023 - 2025</p>
           </li>
           <li className="bg-gray-50 p-4 rounded shadow">
-            <h3 className="text-xl font-semibold text-gray-700">Diploma in computer science and engineering</h3>
-            <p className="text-gray-500">SGMGHSSKolathur School | 2017 - 2019</p>
+            <h3 className="text-xl font-semibold text-gray-700">Bsc Computer Science</h3>
+            <p className="text-gray-500">Sree Narayana College | 2020 - 2023</p>
           </li>
         </ul>
       </div>
